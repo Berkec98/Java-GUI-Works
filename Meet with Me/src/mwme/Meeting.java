@@ -18,7 +18,7 @@ public class Meeting {
 	private JFrame frmMeetWithMe;
 
 	/**
-	 To see the source and design below, open the .java file with the WindowBuilder Editor using openwith.
+	 To see the source and design below, open the .java file with the WindowBuilder Editor (select open with)
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
